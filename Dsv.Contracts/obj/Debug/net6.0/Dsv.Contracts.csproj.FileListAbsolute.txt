@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\bin\Debug\net6.0\Dsv.Contracts.deps.json
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\bin\Debug\net6.0\Dsv.Contracts.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\bin\Debug\net6.0\Dsv.Contracts.pdb
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.AssemblyInfo.cs
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\refint\Dsv.Contracts.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\Dsv.Contracts.pdb
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Contracts\obj\Debug\net6.0\ref\Dsv.Contracts.dll

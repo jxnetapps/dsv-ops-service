@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.AssemblyInfo.cs
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\bin\Debug\net6.0\Dsv.Services.deps.json
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\bin\Debug\net6.0\Dsv.Services.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\bin\Debug\net6.0\Dsv.Services.pdb
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\bin\Debug\net6.0\Dsv.Contracts.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\bin\Debug\net6.0\Dsv.Contracts.pdb
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.csproj.CopyComplete
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\refint\Dsv.Services.dll
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\Dsv.Services.pdb
+C:\Users\user\Downloads\Dvs\DsvManagement\Dsv.Services\obj\Debug\net6.0\ref\Dsv.Services.dll

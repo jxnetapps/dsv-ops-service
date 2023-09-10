@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d0YXsrq7OjHCO0F8WvfIRY45Zy4oy/qr1Z5PFsONvGY=",
+  "Source": "Dsv.WebAPI",
+  "BasePath": "_content/Dsv.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

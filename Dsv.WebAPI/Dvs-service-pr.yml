@@ -1,0 +1,48 @@
+name: $(BuildDefinitionName)-$(Date:yyyyMMdd)$(Rev:.rr)
+
+   
+pool: 
+  vmImage: 'windows-2022'
+  
+variables:
+  buildConfiguration: 'Release'
+  buildPlatform: 'any cpu'
+
+
+steps:
+- task: UseDotNet@2
+  displayName: 'Use dotnet sdk 6.x'
+  inputs:
+    version: 6.x
+    includePreviewVersions: false
+- task: DotNetCoreCLI@2
+  displayName: 'restore packages'
+  inputs:
+    command: 'restore'
+    projects: '**/*.csproj'
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: '**/*.csproj'
+    arguments: '--configuration $(buildConfiguration)'
+- task: DotNetCoreCLI@2
+  displayName: Test
+  inputs:
+    command: test
+    projects: '**/*Tests/*.csproj'
+    arguments: '--no-build --logger:trx --configuration $(buildConfiguration)'
+- task: PublishTestResults@2
+  displayName: Publish Test Results
+  condition: succeededOrFailed()
+  inputs:
+    testRunner: VSTest
+    testResultsFiles: '**/*.trx'
+- task: DotNetCoreCLI@2
+  displayName: 'Publish WebApi'
+  inputs:
+    command: publish
+    publishWebProjects: false
+    projects: '**/Dsv.WebAPI.csproj'
+    arguments: '--configuration $(buildConfiguration) --output $(build.artifactStagingDirectory)\webapi'
+    zipAfterPublish: True
